@@ -1,7 +1,6 @@
 # gitutils
 Git utilites
 
-
 gpc.py - git common constants:
  masterBranchName = 'master'
  developBranchName = 'develop'
