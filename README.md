@@ -13,7 +13,9 @@ gpc.py - git common constants:
  
  workbranchFileName = settingsDirectoryName+'/workbranch.git'
 
+--------------------------------------------------------------
 
+Use:
 
 ww.py, ww.cmd - work with branch
 
